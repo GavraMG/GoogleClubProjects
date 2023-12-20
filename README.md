@@ -1,4 +1,4 @@
-# GoogleClubProjects
+# 🟢🔵🔴 GoogleClubProjects
 
 <p align="center">
   
@@ -15,7 +15,7 @@
 
 <br/>
 
-## About The Google Club
+## 🚀 About The Google Club
 Being an active member of the Google Developer Student Clubs (GDSC) at the University of Guelph has been a transformative experience. Our chapter focuses on peer-to-peer learning and exploring the fundamentals of web development, particularly HTML and Firebase. This initiative is part of a collaborative effort to bolster students' technical acumen and provide a hands-on approach to learning Google's suite of technologies.
 
 <br/>
