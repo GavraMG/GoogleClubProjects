@@ -8,8 +8,8 @@
 
 ## 📖 Table of Contents
 
-- [About My Website](#-about-my-website)
-  - [Features](#-features)
+- [About The Google Club](#-about-the-google-club)
+  - [Key Initiatives & Educational Benefits](#-key-initiatives-&-educational-benefits)
   - [Tech Used](#-tech-used)
 - [Contact](#-contact)
 
