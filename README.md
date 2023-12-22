@@ -40,7 +40,7 @@ Being an active member of the Google Developer Student Clubs (GDSC) at the Unive
 
 <br/>
 
-## Contact
+## ✉️ Contact
 
 Got any question? feel free to reach out!
 
